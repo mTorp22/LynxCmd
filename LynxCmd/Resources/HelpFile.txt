@@ -1,0 +1,25 @@
+﻿Give me 2 / 3 parameters
+1: Ip Address of TLX/FLX 
+2: Command 
+3: -q OPTIONAL, for quiet mode, only value + suffix is output e.g "LynxCmd.exe 192.168.0.2  ProductionToday -q" will return 23 kWh
+Commands are:
+TotalProduction - Total produced kWh over inverter lifetime
+EnergyNow - Instant feed in power (Combined L1, L2,L3)
+EnergyL1 - Instant L1 power in W
+EnergyL2 - Instant L2 power in W
+EnergyL3 - Instant L2 power in W
+CurrentL1 - Instant L1 current in A
+CurrentL2 - Instant L2 current in A
+CurrentL3 - Instant L3 current in A
+ProductionToday - kWh produced today (until now)
+ProductionThisWeek - kWh produced this week
+ProductionLastWeek - kWh produced last week
+ProductionThisMonth - kWh produced in this month
+ProductionLastMonth - kWh produced last month
+ProductionThisYear - kWh produced in this year
+ProductionLastYear - kWh produced last year
+Opmode - request TLX / FLX operationel status
+GridFreq - Grid frequency, mean, phase L1, L2 & L3
+GridVoltL1 - Mean grid voltage L1, over 10 minutes
+GridVoltL2 - Mean grid voltage L2, over 10 minutes
+GridVoltL3 - Mean grid voltage L3, over 10 minutes

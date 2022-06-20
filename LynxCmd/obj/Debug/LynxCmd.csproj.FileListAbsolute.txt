@@ -1,0 +1,15 @@
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\bin\Debug\LynxCmd.exe
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\bin\Debug\LynxCmd.pdb
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\obj\Debug\LynxCmd.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\obj\Debug\LynxCmd.Properties.Resources.resources
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\obj\Debug\LynxCmd.csproj.GenerateResource.Cache
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\obj\Debug\LynxCmd.exe
+C:\Visual Studio 2017\Projects\LynxCmd\LynxCmd\obj\Debug\LynxCmd.pdb
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\bin\Debug\LynxCmd.exe
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\bin\Debug\LynxCmd.pdb
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.csprojAssemblyReference.cache
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.Properties.Resources.resources
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.csproj.GenerateResource.cache
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.csproj.CoreCompileInputs.cache
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.exe
+C:\Users\torp\Nextcloud\VisualstudioProjekter\2017\LynxCmd\LynxCmd\obj\Debug\LynxCmd.pdb
